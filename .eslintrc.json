@@ -44,6 +44,7 @@
 		"space-infix-ops": "error",
 		"space-unary-ops": "error",
 		"spaced-comment": "error",
+		"parser": "@babel/eslint-parser",
 		"yoda": "error"
 	}
 }
