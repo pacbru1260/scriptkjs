@@ -1,0 +1,26 @@
+{
+  "name": "scriptkjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pacbru1260/scriptkjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pacbru1260/scriptkjs/issues"
+  },
+  "homepage": "https://github.com/pacbru1260/scriptkjs#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.34.0"
+  }
+}
